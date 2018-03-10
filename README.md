@@ -1,5 +1,10 @@
 # learning-RNN
-Useful links for learning RNN.
+Useful links.
+
+## Features/Representation
+[GloVe (2014)](https://nlp.stanford.edu/projects/glove/)
+
+## RNN
 
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
