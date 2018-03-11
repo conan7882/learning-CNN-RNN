@@ -6,6 +6,9 @@ Useful links.
 
 [GloVe (2014)](https://nlp.stanford.edu/projects/glove/)
 
+[A GloVe implementation in Python](http://www.foldl.me/2014/glove-python/)
+
+
 ## RNN
 
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
