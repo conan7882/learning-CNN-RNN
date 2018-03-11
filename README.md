@@ -3,6 +3,7 @@ Useful links.
 
 ## Features/Representation
 [The List of Pretrained Word Embeddings](http://ahogrammer.com/2017/01/20/the-list-of-pretrained-word-embeddings/)
+
 [GloVe (2014)](https://nlp.stanford.edu/projects/glove/)
 
 ## RNN
