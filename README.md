@@ -2,11 +2,14 @@
 Useful links.
 
 ## Features/Representation
+[The Art of Tokenization](https://www.ibm.com/developerworks/community/blogs/nlp/entry/tokenization?lang=en)
+
 [The List of Pretrained Word Embeddings](http://ahogrammer.com/2017/01/20/the-list-of-pretrained-word-embeddings/)
 
 [GloVe (2014)](https://nlp.stanford.edu/projects/glove/)
 
 [A GloVe implementation in Python](http://www.foldl.me/2014/glove-python/)
+
 
 
 ## RNN
