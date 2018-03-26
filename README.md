@@ -1,6 +1,14 @@
 # learning-RNN
 Useful links.
 
+## Embedding
+
+[t-SNE](https://lvdmaaten.github.io/tsne/)
+
+[Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
+
+[How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+
 ## Features/Representation
 [The Art of Tokenization](https://www.ibm.com/developerworks/community/blogs/nlp/entry/tokenization?lang=en)
 
