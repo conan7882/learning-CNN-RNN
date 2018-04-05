@@ -30,7 +30,7 @@ Useful links.
 
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-[Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling]*https://arxiv.org/pdf/1412.3555v1.pdf(
+[Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/pdf/1412.3555v1.pdf)
 
 ## Reinforcement Learning
 
