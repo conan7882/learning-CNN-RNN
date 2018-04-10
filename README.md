@@ -18,6 +18,9 @@ Useful links.
 
 [A GloVe implementation in Python](http://www.foldl.me/2014/glove-python/)
 
+## AI
+[AI](https://legacy.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details)
+
 
 
 ## RNN
