@@ -35,6 +35,10 @@ Useful links.
 
 [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://arxiv.org/pdf/1412.3555v1.pdf) (Forget bias of LSTM)
 
+[A Simple Way to Initialize Recurrent Networks of Rectified Linear Units](https://arxiv.org/pdf/1504.00941.pdf)
+
+[Luong's thesis of NMT](https://github.com/lmthang/thesis/blob/master/thesis.pdf)
+
 ## Reinforcement Learning
 
 [DEMYSTIFYING DEEP REINFORCEMENT LEARNING](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/)
