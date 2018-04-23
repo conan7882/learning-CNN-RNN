@@ -1,5 +1,8 @@
-# learning-RNN
-Useful links.
+# Useful links for learning deep learning
+
+## Course
+[Theories of Deep Learning (STATS 385)](https://stats385.github.io/)
+
 
 ## Embedding
 
