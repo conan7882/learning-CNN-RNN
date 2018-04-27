@@ -3,6 +3,10 @@
 ## Course
 [Theories of Deep Learning (STATS 385)](https://stats385.github.io/)
 
+## CNN
+### Inception
+[Going deeper with convolutoins](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
+
 
 ## Embedding
 
