@@ -8,6 +8,8 @@
 
 [Going deeper with convolutoins](https://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
 
+[Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
+
 
 ## Embedding
 
