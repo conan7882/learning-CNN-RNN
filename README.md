@@ -58,3 +58,7 @@ Simple Reinforcement Learning with Tensorflow
 [part 1](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149)
 
 [DEMYSTIFYING DEEP REINFORCEMENT LEARNING](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/)
+
+## Blogs
+
+[THE NEURAL PERSPECTIVE](https://theneuralperspective.com/)
