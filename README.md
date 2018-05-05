@@ -53,6 +53,8 @@
 
 [LET’S MAKE A DQN: THEORY](https://jaromiru.com/2016/09/27/lets-make-a-dqn-theory/)
 
-Simple Reinforcement Learning with Tensorflow [part 0](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+Simple Reinforcement Learning with Tensorflow 
+[part 0](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+[part 1](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149)
 
 [DEMYSTIFYING DEEP REINFORCEMENT LEARNING](http://neuro.cs.ut.ee/demystifying-deep-reinforcement-learning/)
